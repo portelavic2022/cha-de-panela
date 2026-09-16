@@ -1,0 +1,6 @@
+Site Lucas & Victoria — Chá de Panela
+
+Arquivo principal: index.html
+Imagem: casal.jpeg (já incluída como arquivo auxiliar)
+
+O site usa Supabase para as reservas.
